@@ -15,13 +15,11 @@ Subtraction = np.subtract(Addition, V3)
 print('•The Sum of Vector 1 and Vector 2 is', Addition)
 print('•The Difference of', Addition, ' and Vector 3 is', Subtraction)
 
-
 #Multiplication,Division
 Multiplication = np.multiply(V2, V3)
 Division = np.divide(Multiplication, V4)
 print('•The Product of Vector 2 and Vector 3 is', Multiplication)
 print('•The Quotient of', Multiplication, ' and Vector 4 is', Division)
-
 
 #Squaring and Square Root
 Squaring = np.square(V4)
@@ -29,11 +27,9 @@ SquareRoot = np.sqrt(Squaring)
 print('•The Square of Vector 4 is', Squaring)
 print('•The Square Root of', Squaring, 'is', SquareRoot)
 
-
 #Summation
 Summation = np.sum(V5)
 print('•The Summation of Vector 5 is', Summation)
-
 
 #Visual of Vectors and Results of Operations
 plt.title('Visual')
