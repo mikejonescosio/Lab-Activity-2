@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-#Declare 5 different vectors
+#5 Vectors
 V1 = np.array([7, 12])
 V2 = np.array([13, -5])
 V3 = np.array([-7, 10])
